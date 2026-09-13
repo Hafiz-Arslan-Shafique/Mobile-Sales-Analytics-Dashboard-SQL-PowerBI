@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Arslan%20Shafique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hafiz-Arslan-Shafique/Mobile-Sales-Analytics-Dashboard-SQL-PowerBI)
-[![Email](https://img.shields.io/badge/Email-hafiz.shafique%40esom.com.sa-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hafiz.shafique@esom.com.sa)
+[![Email](https://img.shields.io/badge/Email-hafizarslan3195%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hafizarslan3195@gmail.com)
 ![Mobile Sales Dashboard](mobile_sales_dashboard.png)
 
 ---
@@ -196,4 +196,4 @@ Mobile-Sales-Analytics-Dashboard-SQL-PowerBI/
 **Hafiz Arslan Shafique**
 Data Analyst | SQL Server · Power BI · Excel
 
-📧 [hafiz.shafique@esom.com.sa](mailto:hafiz.shafique@esom.com.sa) · 💼 [LinkedIn](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/) · 🗂️ [GitHub](https://github.com/Hafiz-Arslan-Shafique/Mobile-Sales-Analytics-Dashboard-SQL-PowerBI)
+📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hafizarslan3195@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/) · 🗂️ [GitHub](https://github.com/Hafiz-Arslan-Shafique/Mobile-Sales-Analytics-Dashboard-SQL-PowerBI)
