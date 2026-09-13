@@ -4,7 +4,7 @@
 **End-to-end analysis of $264M+ in mobile sales data** — from raw data to an interactive Power BI dashboard, using SQL Server for cleaning, KPI calculation, and business analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Arslan%20Shafique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hafiz-Arslan-Shafique/Mobile-Sales-Analytics-Dashboard-SQL-PowerBI)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hafiz-Arslan-Shafique)
 [![Email](https://img.shields.io/badge/Email-hafizarslan3195%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hafizarslan3195@gmail.com)
 ![Mobile Sales Dashboard](mobile_sales_dashboard.png)
 
@@ -196,4 +196,4 @@ Mobile-Sales-Analytics-Dashboard-SQL-PowerBI/
 **Hafiz Arslan Shafique**
 Data Analyst | SQL Server · Power BI · Excel
 
-📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hafizarslan3195@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/) · 🗂️ [GitHub](https://github.com/Hafiz-Arslan-Shafique/Mobile-Sales-Analytics-Dashboard-SQL-PowerBI)
+📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hafizarslan3195@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/) · 🗂️ [GitHub](https://github.com/Hafiz-Arslan-Shafique)
