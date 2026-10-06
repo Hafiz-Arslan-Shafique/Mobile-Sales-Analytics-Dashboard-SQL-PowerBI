@@ -1,7 +1,7 @@
 # 📱 Mobile Sales Performance Analysis — SQL Server & Power BI
 
 ## Project Overview
-**End-to-end analysis of $264M+ in mobile sales data** — from raw data to an interactive Power BI dashboard, using SQL Server for cleaning, KPI calculation, and business analysis.
+**This project analyzes 2 years of international mobile sales data worth $264.82M** to find which brands, products and cities drive revenue, and why monthly sales fell in the third quarter. It shows that **three brands (Apple, Xiaomi and Samsung) generate about 63% of total revenue**, that **iPhone SE is the top-selling product**, and that **monthly revenue dropped about 23% between July and September ($24.8M → $19.1M)**. It provides a data-driven strategy to protect the best-selling products and recover a **monthly revenue gap of about $5.7M**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Arslan%20Shafique-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-arslan-shafique-bc240203664/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hafiz-Arslan-Shafique)
